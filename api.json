@@ -1,10 +1,8 @@
 {
-  "category": "CRYPTID/MYTHOLOGICAL_CREATURE",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/dragon",
     "maintainers": [
       {
@@ -18,424 +16,110 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "dragon",
     "name": "Dragon",
-    "aliases": [
-      {
-        "name": "Draco",
-        "language": "Latin",
-        "meaning": "Serpent, dragon"
-      },
-      {
-        "name": "Lung",
-        "language": "Chinese",
-        "region": "East Asia",
-        "meaning": "Chinese dragon"
-      },
-      {
-        "name": "Ryū",
-        "language": "Japanese",
-        "region": "Japan",
-        "meaning": "Japanese dragon"
-      },
-      {
-        "name": "Wyvern",
-        "region": "European heraldry",
-        "meaning": "Two-legged dragon variant"
-      },
-      {
-        "name": "Y Ddraig Goch",
-        "language": "Welsh",
-        "region": "Wales",
-        "meaning": "The Red Dragon"
-      }
-    ],
+    "aliases": [],
     "category": "CRYPTID/MYTHOLOGICAL_CREATURE",
-    "subcategory": "Mythological Beast",
+    "subcategory": "Reptilian/Serpentine",
     "tags": [
-      "mythological",
-      "reptilian",
-      "worldwide",
-      "flying",
-      "fire-breathing",
-      "serpentine",
-      "ancient"
+      "of-chaos/nature"
     ],
-    "status": "mythological",
+    "status": "documented",
     "description": {
-      "summary": "Large reptilian legendary creature found in cultures worldwide, characterized by scales, claws, and often the ability to fly and breathe fire.",
+      "summary": "Dragons are legendary creatures appearing in the mythology of nearly every ancient culture.",
       "full": "Dragons are legendary creatures appearing in the mythology of nearly every ancient culture. Western dragons are typically depicted as winged, four-legged beasts that breathe fire, hoard treasure, and represent evil or chaos. Eastern dragons are long, serpentine creatures without wings that fly magically, associated with water, wisdom, and benevolence. The universal appearance of dragon myths likely stems from multiple sources: dinosaur fossil discoveries, exaggerated accounts of crocodiles and large snakes, whale bones, and archetypal symbolism representing primal forces of nature."
     },
     "etymology": {
-      "origin": "From Greek 'drakon' (δράκων) meaning 'serpent' or 'giant sea fish', from 'derkesthai' meaning 'to see clearly' (referring to piercing gaze)",
-      "meaning": "Great serpent, seeing one",
-      "first_use": "Ancient Greece (Homer, circa 800 BCE)"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "CRYPTID/MYTHOLOGICAL_CREATURE",
-      "type": "Mythological Beast",
-      "subtype": "Reptilian/Serpentine",
-      "variant": "Multiple cultural variants"
+      "type": "Reptilian/Serpentine",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "lindworm",
-        "name": "Lindworm",
-        "relationship": "variant",
-        "description": "Wingless, two-legged dragon of Northern Europe"
-      },
-      {
-        "id": "wyvern",
-        "name": "Wyvern",
-        "relationship": "variant",
-        "description": "Two-legged winged dragon"
-      },
-      {
-        "id": "sea-serpent",
-        "name": "Sea Serpent",
-        "relationship": "similar",
-        "description": "Aquatic dragon-like creatures"
-      },
-      {
-        "id": "basilisk",
-        "name": "Basilisk",
-        "relationship": "related",
-        "description": "Serpent king, shares dragon characteristics"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "western_dragon": {
-        "description": "Winged, four-legged, fire-breathing reptilian beast",
-        "features": [
-          "Four legs",
-          "Two wings (bat-like)",
-          "Long tail",
-          "Horns or crests",
-          "Scales or armored skin",
-          "Fire breathing ability"
-        ]
-      },
-      "eastern_dragon": {
-        "description": "Long serpentine body, wingless, benevolent",
-        "features": [
-          "Long serpentine body",
-          "Four short legs with claws",
-          "No wings (flies magically)",
-          "Antler-like horns",
-          "Whiskers",
-          "Pearl under chin or in mouth"
-        ]
-      },
-      "size": "Varies enormously from small serpents to mountain-sized beasts",
-      "coloration": [
-        "red",
-        "green",
-        "black",
-        "gold",
-        "blue",
-        "white"
-      ]
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Fire breathing",
-        "description": "Breathe fire or flame (Western)",
-        "frequency": "common",
-        "evidence_level": "mythological"
-      },
-      {
-        "ability": "Flight",
-        "description": "Winged flight (Western) or magical flight (Eastern)",
-        "frequency": "common",
-        "evidence_level": "mythological"
-      },
-      {
-        "ability": "Elemental control",
-        "description": "Control over weather, water, storms (especially Eastern)",
-        "frequency": "common",
-        "evidence_level": "mythological"
-      },
-      {
-        "ability": "Immense strength",
-        "description": "Tremendous physical power",
-        "frequency": "always",
-        "evidence_level": "mythological"
-      },
-      {
-        "ability": "Wisdom/Intelligence",
-        "description": "High intelligence, speech (especially Eastern)",
-        "frequency": "common",
-        "evidence_level": "mythological"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "western_tradition": {
-        "disposition": "typically hostile",
-        "patterns": [
-          "Hoards treasure",
-          "Kidnaps princesses",
-          "Destroys villages",
-          "Guards sacred places",
-          "Represents evil or chaos"
-        ]
-      },
-      "eastern_tradition": {
-        "disposition": "benevolent",
-        "patterns": [
-          "Controls water and rain",
-          "Brings good fortune",
-          "Symbol of imperial power",
-          "Wise advisors",
-          "Protects Buddhism"
-        ]
-      }
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Universal mythological presence across all inhabited continents",
-      "continents": ["Europe", "Asia", "Africa", "Americas", "Oceania"],
-      "regions": [
-        "Medieval Europe",
-        "Ancient China",
-        "Ancient Greece",
-        "Norse lands",
-        "Middle East",
-        "Mesoamerica"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
-    "cultural_variants": [
-      {
-        "name": "European Dragon",
-        "region": "Europe",
-        "characteristics": "Winged, fire-breathing, evil, treasure-hoarding"
-      },
-      {
-        "name": "Chinese Long",
-        "region": "China",
-        "characteristics": "Serpentine, wingless, water-associated, benevolent"
-      },
-      {
-        "name": "Japanese Ryū",
-        "region": "Japan",
-        "characteristics": "Similar to Chinese, water deity, three-toed"
-      },
-      {
-        "name": "Quetzalcoatl",
-        "region": "Mesoamerica",
-        "characteristics": "Feathered serpent, deity status"
-      }
-    ],
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "3000 BCE",
+        "date": "Unknown",
         "circa": true,
-        "source": "Ancient Mesopotamian myths (Tiamat)"
+        "source": "Traditional folklore"
       }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Dragons appear independently in nearly every ancient culture, suggesting archetypal significance or common inspiration sources",
-      "earliest_accounts": "Mesopotamian Tiamat (circa 3000 BCE), Ancient Egyptian Apep, Greek Python",
-      "folklore_connections": "Connected to creation myths, hero tales, flood legends, cosmological symbolism"
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "3000 BCE",
-        "event": "Mesopotamian dragon myths",
-        "significance": "Tiamat, primordial chaos dragon in Enuma Elish",
-        "source": "Babylonian creation epic"
-      },
-      {
-        "date": "2000 BCE",
-        "event": "Chinese dragon mythology established",
-        "significance": "Dragons as symbols of imperial power and water control",
-        "source": "Chinese historical records"
-      },
-      {
-        "date": "800 BCE",
-        "event": "Greek dragon myths",
-        "significance": "Python slain by Apollo, dragon of Colchis guarding Golden Fleece",
-        "source": "Greek mythology"
-      },
-      {
-        "date": "Medieval Period",
-        "event": "European dragon legends flourish",
-        "significance": "St. George and the Dragon, Beowulf, Norse Fafnir",
-        "source": "Medieval literature"
-      },
-      {
-        "date": "1485",
-        "event": "Welsh dragon on heraldry",
-        "significance": "Y Ddraig Goch becomes Welsh national symbol",
-        "source": "Welsh heraldry"
-      }
-    ],
-    "modern_era": "Dragons remain powerful cultural symbols in literature, film, gaming, and heraldry. No credible biological claims exist."
+    "timeline": []
   },
-
-  "famous_dragons": [
-    {
-      "name": "Tiamat",
-      "culture": "Babylonian",
-      "description": "Primordial chaos dragon, mother of first gods",
-      "source": "Enuma Elish"
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
     },
-    {
-      "name": "Fafnir",
-      "culture": "Norse",
-      "description": "Dwarf transformed into dragon guarding cursed gold",
-      "source": "Völsunga saga"
-    },
-    {
-      "name": "Python",
-      "culture": "Greek",
-      "description": "Serpent-dragon slain by Apollo at Delphi",
-      "source": "Greek mythology"
-    },
-    {
-      "name": "Y Ddraig Goch",
-      "culture": "Welsh",
-      "description": "Red Dragon of Wales, national symbol",
-      "source": "Mabinogion, Historia Brittonum"
-    },
-    {
-      "name": "Smaug",
-      "culture": "Modern literature",
-      "description": "Fire-drake of the North in Tolkien's works",
-      "source": "The Hobbit (1937)"
-    }
-  ],
-
+    "notable": [],
+    "database_path": "./sightings/"
+  },
   "evidence": {
-    "historical": [
-      {
-        "type": "texts",
-        "name": "Ancient writings",
-        "description": "Universal appearance in ancient texts from independent cultures",
-        "status": "mythological",
-        "analysis": "Indicates archetypal symbolism or common inspiration (fossils, large reptiles)"
-      }
-    ]
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
   },
-
   "theories": {
-    "mythological": [
-      {
-        "name": "Archetypal symbol",
-        "description": "Dragons represent primal chaos, nature's power, psychological forces",
-        "proponents": ["Carl Jung", "Joseph Campbell"],
-        "evidence_cited": ["Universal independent appearance", "Consistent symbolism"]
-      }
-    ],
-    "historical_basis": [
-      {
-        "name": "Dinosaur fossils",
-        "description": "Ancient peoples discovering dinosaur fossils created dragon myths to explain them",
-        "proponents": ["Adrienne Mayor"],
-        "evidence_cited": ["Protoceratops skulls in Scythia", "Fossil sites coincide with dragon legends"]
-      },
-      {
-        "name": "Crocodile/snake exaggeration",
-        "description": "Large crocodiles and pythons exaggerated into dragon legends",
-        "proponents": ["Folklorists"],
-        "evidence_cited": ["Physical similarity", "Fear response to large reptiles"]
-      },
-      {
-        "name": "Whale bones",
-        "description": "Beached whale skeletons interpreted as dragon remains",
-        "proponents": ["Historians"],
-        "evidence_cited": ["Whale bones in landlocked areas", "Size similarity"]
-      },
-      {
-        "name": "Collective unconscious",
-        "description": "Universal fear of predators (snakes, big cats, raptors) combined into single mythic beast",
-        "proponents": ["Anthropologists"],
-        "evidence_cited": ["Dragon combines features of multiple predators"]
-      }
-    ]
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
   },
-
   "cultural": {
-    "symbolism": {
-      "western": [
-        "Evil and chaos",
-        "Greed (treasure hoarding)",
-        "Test for heroes",
-        "Satan (Christian tradition)",
-        "Paganism vs Christianity"
-      ],
-      "eastern": [
-        "Wisdom and benevolence",
-        "Imperial power",
-        "Water and rain",
-        "Good fortune",
-        "Cosmic balance (yin-yang)"
-      ]
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "Beowulf (Anglo-Saxon epic)",
-        "The Hobbit by J.R.R. Tolkien (1937)",
-        "A Song of Ice and Fire by George R.R. Martin",
-        "Dragonriders of Pern by Anne McCaffrey",
-        "Earthsea series by Ursula K. Le Guin"
-      ],
-      "film_tv": [
-        "Game of Thrones (2011-2019)",
-        "How to Train Your Dragon franchise",
-        "Dragonheart (1996)",
-        "Reign of Fire (2002)"
-      ],
-      "games": [
-        "Dungeons & Dragons",
-        "The Elder Scrolls V: Skyrim",
-        "Dragon Age series"
-      ],
-      "heraldry": [
-        "Flag of Wales (Y Ddraig Goch)",
-        "Coat of arms of Bhutan",
-        "City of London coat of arms"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "sources": [
-    {
-      "id": "mayor-fossils",
-      "type": "book",
-      "title": "The First Fossil Hunters: Dinosaurs, Mammoths, and Myth in Greek and Roman Times",
-      "authors": ["Adrienne Mayor"],
-      "publication": "Princeton University Press",
-      "date": "2000",
-      "isbn": "978-0691058634"
-    },
-    {
-      "id": "jones-dragons",
-      "type": "book",
-      "title": "Dragons: A Natural History",
-      "authors": ["Karl Shuker"],
-      "publication": "Simon & Schuster",
-      "date": "1995"
-    },
-    {
-      "id": "campbell-hero",
-      "type": "book",
-      "title": "The Hero with a Thousand Faces",
-      "authors": ["Joseph Campbell"],
-      "publication": "New World Library",
-      "date": "1949"
-    }
-  ]
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }
